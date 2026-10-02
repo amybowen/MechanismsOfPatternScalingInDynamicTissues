@@ -1,0 +1,21 @@
+name: /Users/bowena/opt/anaconda3/envs/env_python312
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - python=3.12
+  - scipy
+  - ipykernel
+  - dataclasses
+  - matplotlib
+  - dill
+  - seaborn
+  - ffmpeg
+  - numba
+  - numexpr
+  - cython
+  - meson
+  - tqdm
+  - sympy
+  - py-pde
+prefix: /Users/bowena/opt/anaconda3/envs/env_python312
